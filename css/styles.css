@@ -1,0 +1,12 @@
+.intro {
+    width: 50%;
+    font-style: italic;
+  }
+  .author {
+    width: 75%;
+    font-style: italic;
+    font-weight: bold;
+    color: green
+  }p {
+    color: red;
+  }
